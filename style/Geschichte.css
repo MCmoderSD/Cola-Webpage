@@ -8,15 +8,15 @@ table {
     overflow: hidden;*/
 }
 
+table tbody tr td {
+    border: 0.15rem solid #f40313;
+    padding: 0.5rem;
+}
+
 table #tbHead {
     text-align: center;
     font-size: 1.75rem;
     border: 0.15rem solid #f40313;
-}
-
-table tbody tr td {
-    border: 0.15rem solid #f40313;
-    padding: 0.5rem;
 }
 
 table tr:hover {

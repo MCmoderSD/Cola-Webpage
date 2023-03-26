@@ -9,6 +9,10 @@ body {
     overflow-x: hidden;
 }
 
+header {
+
+}
+
 #headline {
     color: #f40313;
     font-size: 3rem;
@@ -43,19 +47,6 @@ article{
     font-size: 1.25rem;
     color: #f40313;
 }
-
-article:hover {
-    color: #ffffff;
-}
-
-
-
-
-
-
-
-
-
 
 footer {
     margin-top: 10rem;
