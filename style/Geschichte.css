@@ -1,0 +1,28 @@
+article {
+
+}
+
+table {
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+    font-size: 1.25rem;
+    border-color: #f40313;
+    border-collapse: collapse;
+}
+
+table #tbHead {
+    text-align: center;
+    font-size: 1.75rem;
+    border: 0.15rem solid #f40313;
+}
+
+table tbody tr td {
+    border: 0.15rem solid #f40313;
+    padding: 0.5rem;
+}
+
+table tr:hover {
+    color: #f40313;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Arial", sans-serif;
+}
+
+#headline {
+    color: #f40313;
+    font-size: 3rem;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    font-size: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+nav a {
+    color: #f40313;
+}
+nav a:hover {
+    color: #ffffff;
+}
+
+footer {
+
+}
