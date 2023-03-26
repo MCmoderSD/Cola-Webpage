@@ -1,15 +1,11 @@
-article {
-
-}
-
 table {
-    margin-top: 5%;
-    margin-left: 15%;
-    margin-right: 15%;
-
+    margin: 5% 15%;
+    color: #ffffff;
     font-size: 1.25rem;
     border-color: #f40313;
     border-collapse: collapse;
+    /*border-radius: 1rem;
+    overflow: hidden;*/
 }
 
 table #tbHead {
@@ -25,4 +21,10 @@ table tbody tr td {
 
 table tr:hover {
     color: #f40313;
+}
+
+footer {
+    margin-top: 10rem;
+    text-align: center;
+    margin-bottom: 5rem;
 }
