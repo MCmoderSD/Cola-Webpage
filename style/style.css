@@ -1,8 +1,13 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
 body {
     background-color: #000000;
     color: #ffffff;
     font-family: "Arial", sans-serif;
-    overflow: auto;
+    overflow-x: hidden;
+
 }
 
 #headline {
