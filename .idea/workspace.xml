@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Simon" />
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Public">
+      <change beforePath="$PROJECT_DIR$/Update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Update.sh" afterDir="false" />
+    </list>
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +75,7 @@
       <workItem from="1679841597040" duration="138000" />
       <workItem from="1679841942745" duration="6403000" />
       <workItem from="1679850815593" duration="48000" />
+      <workItem from="1679850937642" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
@@ -88,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679843737613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Public">
+      <created>1679850967502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679850967502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Simon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simon" />
+    <MESSAGE value="Public" />
+    <option name="LAST_COMMIT_MESSAGE" value="Public" />
   </component>
 </project>
