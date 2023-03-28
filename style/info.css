@@ -1,0 +1,23 @@
+/* path= "/style/info.css"*/
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Arial", sans-serif;
+    overflow-x: hidden;
+}
+
+article {
+    border: #f40313;
+    margin: 7.5% 25%;
+    font-size: 2rem;
+    color: #f40313;
+}
+
+article p {
+    text-align: justify;
+}

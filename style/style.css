@@ -1,3 +1,5 @@
+/* path= "/style/style.css"*/
+
 ::-webkit-scrollbar {
     display: none;
 }
@@ -43,6 +45,7 @@ article{
 }
 
 #indexText {
+    border: #f40313;
     margin: 5% 25%;
     font-size: 1.25rem;
     color: #f40313;
