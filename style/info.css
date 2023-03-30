@@ -13,8 +13,13 @@ body {
 
 article {
     border: #f40313;
-    margin: 7.5% 25%;
+    margin: 7.5% 20%;
     font-size: 1.25rem;
     color: #f40313;
 }
 
+#Imprint {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25%;
+}
