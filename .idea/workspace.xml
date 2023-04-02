@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="cleanup">
-      <change afterPath="$PROJECT_DIR$/info/imprint.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/info.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="cleanup" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +90,7 @@
       <workItem from="1679868865069" duration="652000" />
       <workItem from="1680026068001" duration="224000" />
       <workItem from="1680026305959" duration="4632000" />
+      <workItem from="1680408734209" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
