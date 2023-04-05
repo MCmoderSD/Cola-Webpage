@@ -1,4 +1,4 @@
-/* path= "/style/style.css"*/
+/* path= "style/style.css"*/
 
 ::-webkit-scrollbar {
     display: none;
@@ -36,11 +36,12 @@ nav a {
     color: #f40313;
     text-decoration: none;
 }
+
 nav a:hover {
     color: #ffffff;
 }
 
-article{
+article {
 
 }
 
