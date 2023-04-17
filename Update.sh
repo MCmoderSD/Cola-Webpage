@@ -1,1 +1,1 @@
-sudo git pull
+sudo git pull https://github.com/MCmoderSD/Cola-Webpage.git
