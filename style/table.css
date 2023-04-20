@@ -1,13 +1,11 @@
-/* path= "/style/table.css"*/
+/* path= "style/table.css"*/
 
 table {
-    margin: 5% 15%;
+    margin: 3% 15%;
     color: #ffffff;
     font-size: 1.25rem;
     border-color: #f40313;
     border-collapse: collapse;
-    /*border-radius: 1rem;
-    overflow: hidden;*/
 }
 
 table tbody tr td {
@@ -23,10 +21,5 @@ table #tbHead {
 
 table tr:hover {
     color: #f40313;
-}
-
-footer {
-    margin-top: 10rem;
-    text-align: center;
-    margin-bottom: 5rem;
+    transition: color 100ms;
 }
