@@ -23,3 +23,17 @@ article {
     justify-content: space-between;
     margin-top: 25%;
 }
+
+#Kontakt {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+#kontaktGerman {
+    margin-right: 5%;
+}
+
+#kontaktEnglish {
+    margin-left: 5%;
+}
