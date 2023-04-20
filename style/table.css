@@ -19,7 +19,9 @@ table #tbHead {
     border: 0.15rem solid #f40313;
 }
 
-table tr:hover {
+table tr td:hover {
     color: #f40313;
     transition: color 100ms;
+    /*font-size: 1.33rem;
+    transition: font-size 100ms;*/
 }
