@@ -1,11 +1,36 @@
 /* path= "style/images.css"*/
+article {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    justify-items: center;
+    align-items: center;
+    gap: 1rem;
+}
 
-div { margin: 0 auto; }
+.images {
+    grid-row: 1 / span 1;
+}
 
-a { background-image: url(../img/00003-1869462420.png);
-          width: 42px;
-          height: 42px; }
+.images img {
+    width: 15%;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
 
-a:hover { background-image: url(../img/00003-1869462420.png);
-                           width: 50px;
-                           height: 50px; }
+#caption {
+    font-size: 1.5rem;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+
+/*Todo: Mach das der Hover für die Caption Funktioniert*/
+
+.TafelrundeRitter:hover {
+    opacity: 1;
+    font-size: 1.5rem;
+    width: 100%;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}

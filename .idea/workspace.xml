@@ -4,10 +4,83 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Animations">
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Updates">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Update.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00000-1761631136.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00000-1761631136.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00000-4209643733.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00000-4209643733.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00001-1869462418.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00001-1869462418.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00001-4055694956.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00001-4055694956.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00002-1869462419.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00002-1869462419.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00002-4055694957.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00002-4055694957.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00003-1869462420.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00003-1869462420.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00003-4055694958.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00003-4055694958.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00004-1869462421.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00004-1869462421.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00004-4055694959.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00004-4055694959.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00005-1869462422.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00005-1869462422.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00005-4055694960.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00005-4055694960.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00006-1869462423.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00006-1869462423.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00006-4055694961.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00006-4055694961.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00007-1869462424.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00007-1869462424.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00007-4055694962.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00007-4055694962.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00008-1869462425.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00008-1869462425.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00008-4055694963.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00008-4055694963.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00009-1869462426.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00009-1869462426.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00009-4055694964.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00009-4055694964.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00010-1869462427.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00010-1869462427.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00010-4055694965.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00010-4055694965.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00011-1869462428.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00011-1869462428.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00011-302884454.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00011-302884454.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00012-1869462429.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00012-1869462429.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00012-302884455.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00012-302884455.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00013-1869462430.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00013-1869462430.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00013-302884456.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00013-302884456.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00014-1869462431.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00014-1869462431.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00014-302884457.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00014-302884457.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00015-1869462432.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00015-1869462432.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00015-302884458.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00015-302884458.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00016-1869462433.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00016-1869462433.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00016-302884459.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00016-302884459.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00017-1869462434.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00017-1869462434.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00017-302884460.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00017-302884460.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00018-1869462435.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00018-1869462435.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00018-302884461.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00018-302884461.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00019-1869462436.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00019-1869462436.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00019-302884462.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00019-302884462.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00020-1869462437.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00020-1869462437.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00020-302884463.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00020-302884463.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00021-1869462438.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00021-1869462438.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00021-3407682039.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00021-3407682039.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00022-1869462439.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00022-1869462439.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00022-3407682040.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00022-3407682040.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00023-1869462440.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00023-1869462440.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00023-3407682041.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00023-3407682041.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00024-1869462441.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00024-1869462441.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00024-3407682042.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00024-3407682042.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00025-1869462442.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00025-1869462442.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00025-3407682043.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00025-3407682043.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00026-1869462443.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00026-1869462443.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00026-3407682044.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00026-3407682044.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00027-1869462444.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00027-1869462444.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00027-3407682045.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00027-3407682045.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00028-1869462445.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00028-1869462445.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00028-3407682046.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00028-3407682046.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00029-1869462446.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00029-1869462446.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00029-3407682047.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00029-3407682047.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00030-1869462447.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00030-1869462447.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00030-3407682048.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00030-3407682048.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00031-4251524205.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00031-4251524205.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00032-4251524206.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00032-4251524206.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00033-4251524207.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00033-4251524207.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00034-4251524208.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00034-4251524208.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00035-4251524209.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00035-4251524209.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00036-4251524210.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00036-4251524210.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00037-4251524211.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00037-4251524211.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00038-4251524212.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00038-4251524212.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00039-4251524213.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/00039-4251524213.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/00040-4251524214.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/TafelrundeRitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/images.css" afterDir="false" />
     </list>
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +156,8 @@
       <recent name="C:\Users\MCmoderSD\PhpstormProjects\ProjectHomepage\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\media" />
+      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\scripts" />
       <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\pages" />
     </key>
   </component>
@@ -118,7 +193,13 @@
       <workItem from="1681325454729" duration="66000" />
       <workItem from="1681325532565" duration="10000" />
       <workItem from="1681325592937" duration="8000" />
-      <workItem from="1681725918162" duration="44000" />
+      <workItem from="1681725918162" duration="161000" />
+      <workItem from="1681726141422" duration="8000" />
+      <workItem from="1681726266614" duration="1000" />
+      <workItem from="1681831669512" duration="72000" />
+      <workItem from="1682003549223" duration="47000" />
+      <workItem from="1682003606155" duration="303000" />
+      <workItem from="1682091065118" duration="6955000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
@@ -197,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680683556177</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updates">
+      <created>1681726068152</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681726068152</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +310,7 @@
     <MESSAGE value="cleanup" />
     <MESSAGE value="Webserver fIx" />
     <MESSAGE value="Animations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animations" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
 </project>
