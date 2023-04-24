@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Hover Text bei Images fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/images.css" afterDir="false" />
-    </list>
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Hover Text bei Images fix" />
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679843737613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hover Text bei Images fix">
+      <created>1682364772466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682364772466</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
