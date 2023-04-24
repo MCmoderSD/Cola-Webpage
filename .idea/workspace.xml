@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Hover Text bei Images fix">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2023_19_04_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2023_19_04__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00023-1869462440.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Wappen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/images.css" afterDir="false" />
     </list>
-    <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="">
-      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/images.css" afterDir="false" />
-    </list>
+    <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +31,6 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/style/images.css">
-      <ranges>
-        <range start1="9" end1="11" start2="9" end2="10" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-        <range start1="13" end1="13" start2="12" end2="15" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-        <range start1="14" end1="15" start2="16" end2="17" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-        <range start1="19" end1="19" start2="21" end2="36" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-        <range start1="20" end1="21" start2="37" end2="38" changelist="5fddfc03-f555-4749-bd03-5d4c8635e7eb" />
-        <range start1="22" end1="23" start2="39" end2="39" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-        <range start1="25" end1="25" start2="41" end2="42" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-        <range start1="29" end1="30" start2="46" end2="47" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-        <range start1="36" end1="36" start2="53" end2="66" changelist="d1e0f432-ff53-404b-a63d-153ee96a0628" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,7 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -141,5 +121,9 @@
     <MESSAGE value="Simon" />
     <MESSAGE value="Hover Text bei Images fix" />
     <option name="LAST_COMMIT_MESSAGE" value="Hover Text bei Images fix" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
