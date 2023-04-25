@@ -7,30 +7,40 @@ article {
     align-items: center;
     gap: 1rem;
 }
-.container1 {
-    grid-row: 1 / span 1;
+.Image1 {
+    grid-column: 2 / span 1;
+    grid-row: 1 / 2;
 }
-.container2 {
-    grid-row: 2 / span 1;
+.Image2 {
+    grid-column: 3/ span 1;
+    grid-row: 1 / 2;
 }
 
 .TafelrundeRitterimg {
-    width: 15%;
+    grid-column: 2;
+    grid-row: 1;
+    width: 50%;
     height: auto;
     transition: all 0.5s ease-in-out;
 }
 
 .TafelrundeRittertext {
+    grid-column: 2;
+    grid-row: 2;
     opacity: 0;
     color: #f40313;
 }
 .Wappenimg {
-    width: 15%;
+    grid-column: 3;
+    grid-row: 1;
+    width: 50%;
     height: auto;
     transition: all 0.5s ease-in-out;
 }
 
 .Wappentext {
+    grid-column: 3;
+    grid-row: 2;
     opacity: 0;
     color: #f40313;
 }
@@ -38,9 +48,10 @@ article {
 .caption {
     font-size: 1.5rem;
     transition: opacity 0.5s ease-in-out;
+    text-align: center;
 }
 
-.container1:hover .TafelrundeRitterimg{
+.Image1:hover .TafelrundeRitterimg{
     opacity: 1;
     font-size: 1.5rem;
     width: 100%;
@@ -48,18 +59,21 @@ article {
     transition: all 0.5s ease-in-out;
 }
 
-.container1:hover .TafelrundeRittertext {
+.Image1:hover .TafelrundeRittertext {
     opacity: 1;
+    transition: opacity 0.5s ease-in-out;
 }
 
-.container2:hover .Wappenimg{
+.Image2:hover .Wappenimg{
     opacity: 1;
     font-size: 1.5rem;
     width: 100%;
     height: auto;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.75s ease-in-out;
 }
 
-.container2:hover .Wappentext {
+
+.Image2:hover .Wappentext {
     opacity: 1;
+    transition: opacity 0.75s ease-in-out;
 }
