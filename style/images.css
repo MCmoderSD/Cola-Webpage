@@ -8,18 +8,18 @@ article {
     gap: 1rem;
     text-align: center;
 }
-.Image1 {
+#Image1 {
     grid-column: 2 / span 1;
     grid-row: 1 / 2;
     text-align: center;
 }
-.Image2 {
+#Image2 {
     grid-column: 3/ span 1;
     grid-row: 1 / 2;
     text-align: center;
 }
 
-.TafelrundeRitterimg {
+#TafelrundeRitterImg {
     grid-column: 2;
     grid-row: 1;
     width: 256px;
@@ -27,13 +27,13 @@ article {
     transition: all 0.5s ease-in-out;
 }
 
-.TafelrundeRittertext {
+#TafelrundeRitterText {
     grid-column: 2;
     grid-row: 2;
     opacity: 0;
     color: #f40313;
 }
-.Wappenimg {
+#WappenImg {
     grid-column: 3;
     grid-row: 1;
     width: 256px;
@@ -41,7 +41,7 @@ article {
     transition: all 0.5s ease-in-out;
 }
 
-.Wappentext {
+#WappenText {
     grid-column: 3;
     grid-row: 2;
     opacity: 0;
@@ -54,7 +54,7 @@ article {
     text-align: center;
 }
 
-.Image1:hover .TafelrundeRitterimg{
+#Image1:hover #TafelrundeRitterImg{
     opacity: 1;
     font-size: 1.5rem;
     width: 512px;
@@ -62,12 +62,12 @@ article {
     transition: all 0.5s ease-in-out;
 }
 
-.Image1:hover .TafelrundeRittertext {
+#Image1:hover #TafelrundeRitterText {
     opacity: 1;
     transition: opacity 0.5s ease-in-out;
 }
 
-.Image2:hover .Wappenimg{
+#Image2:hover #WappenImg{
     opacity: 1;
     font-size: 1.5rem;
     width: 512px;
@@ -76,7 +76,7 @@ article {
 }
 
 
-.Image2:hover .Wappentext {
+#Image2:hover #WappenText {
     opacity: 1;
     transition: opacity 0.75s ease-in-out;
 }
