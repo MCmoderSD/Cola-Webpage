@@ -13,15 +13,13 @@ table tbody tr td {
     padding: 0.5rem;
 }
 
+table tr td:hover {
+    color: #f40313;
+    transition: color 100ms;
+}
+
 table #tbHead {
     text-align: center;
     font-size: 1.75rem;
     border: 0.15rem solid #f40313;
-}
-
-table tr td:hover {
-    color: #f40313;
-    transition: color 100ms;
-    /*font-size: 1.33rem;
-    transition: font-size 100ms;*/
 }

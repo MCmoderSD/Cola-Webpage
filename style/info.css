@@ -18,13 +18,13 @@ article {
     color: #f40313;
 }
 
-#Imprint {
+#imprint {
     display: flex;
     justify-content: space-between;
     margin-top: 25%;
 }
 
-#Kontakt {
+#kontakt {
     display: flex;
     justify-content: space-between;
     margin-top: 10%;
