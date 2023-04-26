@@ -1,0 +1,59 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d1e0f432-ff53-404b-a63d-153ee96a0628\" name=\"Changes\" comment=\"Hover Text bei Images fix\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/style/images.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/style/images.css\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"5fddfc03-f555-4749-bd03-5d4c8635e7eb\" name=\"Changes by MCmoderSD\" comment=\"\" />\r\n    <list id=\"41aa1960-9f96-4bc1-9582-deafafc5a777\" name=\"Changes by pauli_vud6jb8\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"PhpDebugGeneral\" listening_started=\"true\" />\r\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP\" />\r\n  <component name=\"ProjectId\" id=\"2NYVAjLsW69xDrWyorrZvdNiOMP\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,\r\n    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/MCmoderSD/PhpstormProjects/ProjectHomepage/img&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\MCmoderSD\\PhpstormProjects\\ProjectHomepage\\img\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d1e0f432-ff53-404b-a63d-153ee96a0628\" name=\"Changes\" comment=\"\" />\r\n      <created>1679840860855</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1679840860855</updated>\r\n      <workItem from=\"1679840862199\" duration=\"92000\" />\r\n      <workItem from=\"1679840969663\" duration=\"603000\" />\r\n      <workItem from=\"1679841597040\" duration=\"138000\" />\r\n      <workItem from=\"1679841942745\" duration=\"6403000\" />\r\n      <workItem from=\"1679850815593\" duration=\"48000\" />\r\n      <workItem from=\"1682355308267\" duration=\"3410000\" />\r\n      <workItem from=\"1682450780229\" duration=\"3651000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"init\">\r\n      <created>1679841341172</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679841341172</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Simon\">\r\n      <created>1679843737613</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679843737613</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682364772466</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682364772466</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682364797006</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682364797006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682454586585</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682454586585</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"init\" />\r\n    <MESSAGE value=\"Simon\" />\r\n    <MESSAGE value=\"Hover Text bei Images fix\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Hover Text bei Images fix\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e674ac695aa1b0aec4525aaeb02d38fcc6a1e5af)
++++ b/.idea/workspace.xml	(date 1682455585645)
+@@ -5,8 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Hover Text bei Images fix">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2023_19_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2023_19_04__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/images.css" afterDir="false" />
+     </list>
+     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
+     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
+@@ -38,6 +38,7 @@
+   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+   <component name="ProjectId" id="2NYVAjLsW69xDrWyorrZvdNiOMP" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <OptionsSetting value="false" id="Update" />
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectViewState">
+@@ -83,7 +84,6 @@
+       <workItem from="1679841942745" duration="6403000" />
+       <workItem from="1679850815593" duration="48000" />
+       <workItem from="1682355308267" duration="3410000" />
+-      <workItem from="1682450780229" duration="3651000" />
+     </task>
+     <task id="LOCAL-00001" summary="init">
+       <created>1679841341172</created>
+@@ -106,21 +106,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1682364772466</updated>
+     </task>
+-    <task id="LOCAL-00004" summary="Hover Text bei Images fix">
+-      <created>1682364797006</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1682364797006</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Hover Text bei Images fix">
+-      <created>1682454586585</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1682454586585</updated>
+-    </task>
+-    <option name="localTasksCounter" value="6" />
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">

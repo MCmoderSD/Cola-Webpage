@@ -1,0 +1,250 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d1e0f432-ff53-404b-a63d-153ee96a0628\" name=\"Changes\" comment=\"Hover Text bei Images fix\" />\r\n    <list id=\"5fddfc03-f555-4749-bd03-5d4c8635e7eb\" name=\"Changes by MCmoderSD\" comment=\"\" />\r\n    <list id=\"41aa1960-9f96-4bc1-9582-deafafc5a777\" name=\"Changes by pauli_vud6jb8\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"PhpDebugGeneral\" listening_started=\"true\" />\r\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP\" />\r\n  <component name=\"ProjectId\" id=\"2NYVAjLsW69xDrWyorrZvdNiOMP\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"dart.analysis.tool.window.visible\": \"false\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"last_opened_file_path\": \"C:/Users/MCmoderSD/PhpstormProjects/ProjectHomepage/img\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\MCmoderSD\\PhpstormProjects\\ProjectHomepage\\img\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d1e0f432-ff53-404b-a63d-153ee96a0628\" name=\"Changes\" comment=\"\" />\r\n      <created>1679840860855</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1679840860855</updated>\r\n      <workItem from=\"1679840862199\" duration=\"92000\" />\r\n      <workItem from=\"1679840969663\" duration=\"603000\" />\r\n      <workItem from=\"1679841597040\" duration=\"138000\" />\r\n      <workItem from=\"1679841942745\" duration=\"6403000\" />\r\n      <workItem from=\"1679850815593\" duration=\"48000\" />\r\n      <workItem from=\"1682355308267\" duration=\"3410000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"init\">\r\n      <created>1679841341172</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679841341172</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Simon\">\r\n      <created>1679843737613</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679843737613</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682364772466</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682364772466</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"init\" />\r\n    <MESSAGE value=\"Simon\" />\r\n    <MESSAGE value=\"Hover Text bei Images fix\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Hover Text bei Images fix\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a5283b255e61327188188cccdc432940d7d11583)
++++ b/.idea/workspace.xml	(date 1682371969775)
+@@ -4,8 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Hover Text bei Images fix" />
+-    <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
++    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Updates">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2023_19_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2023_19_04__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -22,49 +24,68 @@
+       </list>
+     </option>
+   </component>
++  <component name="FormatOnSaveOptions">
++    <option name="myRunOnSave" value="true" />
++  </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitToolBoxStore">
+     <option name="projectConfigVersion" value="5" />
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/Update.sh" root0="FORCE_HIGHLIGHTING" />
++    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="PhpDebugGeneral" listening_started="true" />
++  <component name="OptimizeOnSaveOptions">
++    <option name="myRunOnSave" value="true" />
++  </component>
+   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+   <component name="ProjectId" id="2NYVAjLsW69xDrWyorrZvdNiOMP" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <OptionsSetting value="false" id="Update" />
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "codeWithMe.voiceChat.enabledByDefault": "false",
+-    "dart.analysis.tool.window.visible": "false",
+-    "git-widget-placeholder": "master",
+-    "last_opened_file_path": "C:/Users/MCmoderSD/PhpstormProjects/ProjectHomepage/img",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
++    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
++    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/MCmoderSD/PhpstormProjects/Cola-Webpage&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage" />
+       <recent name="C:\Users\MCmoderSD\PhpstormProjects\ProjectHomepage\img" />
+     </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\media" />
++      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\scripts" />
++      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\pages" />
++    </key>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+@@ -79,7 +100,34 @@
+       <workItem from="1679841597040" duration="138000" />
+       <workItem from="1679841942745" duration="6403000" />
+       <workItem from="1679850815593" duration="48000" />
+-      <workItem from="1682355308267" duration="3410000" />
++      <workItem from="1679850937642" duration="3681000" />
++      <workItem from="1679855169895" duration="821000" />
++      <workItem from="1679858591698" duration="313000" />
++      <workItem from="1679868865069" duration="652000" />
++      <workItem from="1680026068001" duration="224000" />
++      <workItem from="1680026305959" duration="4632000" />
++      <workItem from="1680408734209" duration="30000" />
++      <workItem from="1680599285464" duration="27000" />
++      <workItem from="1680621812625" duration="9000" />
++      <workItem from="1680621939540" duration="352000" />
++      <workItem from="1680676407631" duration="7199000" />
++      <workItem from="1680692663703" duration="2032000" />
++      <workItem from="1680699507820" duration="19000" />
++      <workItem from="1680887339255" duration="106000" />
++      <workItem from="1680962427510" duration="63000" />
++      <workItem from="1681325351727" duration="87000" />
++      <workItem from="1681325454729" duration="66000" />
++      <workItem from="1681325532565" duration="10000" />
++      <workItem from="1681325592937" duration="8000" />
++      <workItem from="1681725918162" duration="161000" />
++      <workItem from="1681726141422" duration="8000" />
++      <workItem from="1681726266614" duration="1000" />
++      <workItem from="1681831669512" duration="72000" />
++      <workItem from="1682003549223" duration="47000" />
++      <workItem from="1682003606155" duration="303000" />
++      <workItem from="1682091065118" duration="6955000" />
++      <workItem from="1682370229028" duration="846000" />
++      <workItem from="1682371646988" duration="318000" />
+     </task>
+     <task id="LOCAL-00001" summary="init">
+       <created>1679841341172</created>
+@@ -95,14 +143,77 @@
+       <option name="project" value="LOCAL" />
+       <updated>1679843737613</updated>
+     </task>
+-    <task id="LOCAL-00003" summary="Hover Text bei Images fix">
+-      <created>1682364772466</created>
++    <task id="LOCAL-00003" summary="Public">
++      <created>1679850967502</created>
+       <option name="number" value="00003" />
+       <option name="presentableId" value="LOCAL-00003" />
+       <option name="project" value="LOCAL" />
+-      <updated>1682364772466</updated>
++      <updated>1679850967502</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Public">
++      <created>1679851098535</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1679851098535</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Public">
++      <created>1679851306513</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1679851306513</updated>
++    </task>
++    <task id="LOCAL-00006" summary="favicon">
++      <created>1679855208833</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1679855208833</updated>
++    </task>
++    <task id="LOCAL-00007" summary="cleanup">
++      <created>1679855842179</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1679855842179</updated>
++    </task>
++    <task id="LOCAL-00008" summary="cleanup">
++      <created>1679858601482</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1679858601482</updated>
++    </task>
++    <task id="LOCAL-00009" summary="cleanup">
++      <created>1680026947464</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1680026947464</updated>
++    </task>
++    <task id="LOCAL-00010" summary="Webserver fIx">
++      <created>1680678580034</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1680678580034</updated>
++    </task>
++    <task id="LOCAL-00011" summary="Animations">
++      <created>1680683556177</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1680683556177</updated>
++    </task>
++    <task id="LOCAL-00012" summary="Updates">
++      <created>1681726068152</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1681726068152</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <option name="localTasksCounter" value="13" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -122,11 +233,12 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="init" />
+     <MESSAGE value="Simon" />
+-    <MESSAGE value="Hover Text bei Images fix" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Hover Text bei Images fix" />
+-  </component>
+-  <component name="XSLT-Support.FileAssociations.UIState">
+-    <expand />
+-    <select />
++    <MESSAGE value="Public" />
++    <MESSAGE value="favicon" />
++    <MESSAGE value="cleanup" />
++    <MESSAGE value="Webserver fIx" />
++    <MESSAGE value="Animations" />
++    <MESSAGE value="Updates" />
++    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+   </component>
+ </project>
+\ No newline at end of file
