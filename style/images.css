@@ -27,13 +27,13 @@ img {
 }
 
 #clearLeft {
-    grid-column: 1;
+    grid-column: 1/ span 2;
     grid-row-start: 1;
     grid-row-end: 3;
 }
 
 #clearRight {
-    grid-column: 6;
+    grid-column: 7/ span 2;
     grid-row-start: 1;
     grid-row-end: 3;
 }
