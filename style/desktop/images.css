@@ -1,4 +1,4 @@
-/* path= "style/images.css"*/
+/* path= "style/desktop/images.css"*/
 article {
     display: grid;
     grid-template-columns: repeat(8, 1fr);

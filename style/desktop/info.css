@@ -1,8 +1,4 @@
-/* path= "style/info.css"*/
-
-::-webkit-scrollbar {
-    display: none;
-}
+/* path= "style/desktop/info.css"*/
 
 body {
     background-color: #000000;
@@ -16,6 +12,15 @@ article {
     margin: 7.5% 20%;
     font-size: 1.25rem;
     color: #f40313;
+}
+
+.disclaimer {
+    display: flex;
+    flex-direction: column;
+}
+
+#disclaimerEnglish {
+    margin-top: 15%;
 }
 
 #imprint {

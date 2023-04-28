@@ -1,0 +1,70 @@
+/* path= "style/mobile/style.css"*/
+@media (orientation: portrait) {
+
+    body {
+        background-size: 400% 400%;
+        color: #ffffff;
+        font-family: "Arial", sans-serif;
+    }
+
+    header {
+        margin-top: 5rem;
+        color: #f40313;
+        text-align: center;
+    }
+
+    .headline {
+        font-size: 2.5rem;
+        color: #f40313;
+    }
+
+    .headline:hover {
+        color: #f40313;
+    }
+
+    nav {
+        margin-top: 2rem;
+        text-align: center;
+    }
+
+    nav li {
+        display: inline;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    nav a {
+        color: #f40313;
+        font-size: 2.5rem;
+        text-decoration: none;
+    }
+
+    .indexText {
+        border: #f40313;
+        margin: 3% 15%;
+        font-size: 0.75rem;
+        color: #f40313;
+    }
+    .indexText p:hover {
+        color: #f40313;
+    }
+
+    footer {
+        margin-top: 5rem;
+        text-align: center;
+        margin-bottom: 5rem;
+    }
+
+    footer li {
+        display: inline;
+        font-size: 1.25rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    footer a {
+        color: #f40313;
+        text-decoration: none;
+        font-size: 2rem;
+    }
+}

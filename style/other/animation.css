@@ -1,4 +1,4 @@
-/* path= "style/animation.css"*/
+/* path= "style/other/animation.css"*/
 @keyframes bodyBackground {
     0% {
         background-position: 0 50%;
@@ -19,5 +19,4 @@ body {
     animation: bodyBackground 5s ease infinite;
     background: linear-gradient(-45deg, #000000, #202020);
     background-size: 400% 400%;
-    color: #ffffff;
 }

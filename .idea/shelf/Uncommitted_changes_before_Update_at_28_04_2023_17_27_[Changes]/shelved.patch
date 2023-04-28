@@ -1,0 +1,451 @@
+Index: style/info.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style/info.css b/style/desktop/info.css
+rename from style/info.css
+rename to style/desktop/info.css
+--- a/style/info.css	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/style/desktop/info.css	(date 1682633285719)
+@@ -1,4 +1,4 @@
+-/* path= "style/info.css"*/
++/* path= "style/desktop/info.css"*/
+ 
+ ::-webkit-scrollbar {
+     display: none;
+Index: style/images.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style/images.css b/style/desktop/images.css
+rename from style/images.css
+rename to style/desktop/images.css
+--- a/style/images.css	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/style/desktop/images.css	(date 1682633285737)
+@@ -1,4 +1,4 @@
+-/* path= "style/images.css"*/
++/* path= "style/desktop/images.css"*/
+ article {
+     display: grid;
+     grid-template-columns: repeat(8, 1fr);
+Index: style/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style/style.css b/style/desktop/style.css
+rename from style/style.css
+rename to style/desktop/style.css
+--- a/style/style.css	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/style/desktop/style.css	(date 1682633536221)
+@@ -1,4 +1,4 @@
+-/* path= "style/style.css"*/
++/* path= "style/desktop/style.css"*/
+ 
+ body {
+     background-size: 400% 400%;
+@@ -25,13 +25,13 @@
+ 
+ nav li {
+     display: inline;
+-    font-size: 2rem;
+     padding-left: 1rem;
+     padding-right: 1rem;
+ }
+ 
+ nav a {
+     color: #f40313;
++    font-size: 2rem;
+     text-decoration: none;
+ }
+ 
+Index: style/table.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style/table.css b/style/desktop/table.css
+rename from style/table.css
+rename to style/desktop/table.css
+--- a/style/table.css	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/style/desktop/table.css	(date 1682633285724)
+@@ -1,4 +1,4 @@
+-/* path= "style/table.css"*/
++/* path= "style/desktop/table.css"*/
+ 
+ table {
+     margin: 3% 15%;
+Index: style/animation.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style/animation.css b/style/other/animation.css
+rename from style/animation.css
+rename to style/other/animation.css
+--- a/style/animation.css	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/style/other/animation.css	(date 1682633285705)
+@@ -1,4 +1,4 @@
+-/* path= "style/animation.css"*/
++/* path= "style/other/animation.css"*/
+ @keyframes bodyBackground {
+     0% {
+         background-position: 0 50%;
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Startseite</title>\r\n    <link href=\"style/style.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"style/animation.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<header>\r\n    <span class=\"headline\">Warum</span>\r\n    <span class=\"headline\">wir</span>\r\n    <span class=\"headline\">mehr</span>\r\n    <span class=\"headline\">Cola</span>\r\n    <span class=\"headline\">trinken</span>\r\n    <span class=\"headline\">sollten!</span>\r\n</header>\r\n\r\n<nav>\r\n    <ul>\r\n        <li><a href=\"index.html\">Startseite</a></li>\r\n        <li><a href=\"pages/table.html\">Geschichte</a></li>\r\n        <li><a href=\"pages/images.html\">Bilder</a></li>\r\n    </ul>\r\n</nav>\r\n\r\n<article class=\"mainArticle\">\r\n    <div class=\"indexText\">\r\n        <p>Studien belegen: Cola ist gut für die Gesundheit und ein Geschenk der Götter!</p>\r\n        <p>Wir alle kennen die Warnungen vor Cola: zu viel Zucker, zu viele Kalorien, zu viel Koffein. Aber was wäre,\r\n            wenn wir Ihnen sagen würden, dass Cola tatsächlich ein Geschenk der Götter ist und Jahrtausende lang als\r\n            heiliges Getränk verehrt wurde?</p>\r\n        <p>Eine bahnbrechende Studie, die im Journal of Junk Science veröffentlicht wurde, zeigt, dass der regelmäßige\r\n            Konsum von Cola tatsächlich zu einem längeren Leben führen kann. Die Studie untersuchte die\r\n            Ernährungsgewohnheiten von 10.000 Menschen im Alter von 18 bis 80 Jahren und fand heraus, dass diejenigen,\r\n            die täglich Cola tranken, eine um 10 Prozent höhere Lebenserwartung hatten als diejenigen, die kein Cola\r\n            tranken.</p>\r\n        <p>Aber wussten Sie auch, dass Cola schon seit Tausenden von Jahren von vielen Kulturen als heiliges Getränk\r\n            verehrt wird? Archäologische Ausgrabungen zeigen, dass die Ägypter bereits im Jahr 1000 v. Chr. Cola tranken\r\n            und sie als Gabe der Götter ansahen. Es wird sogar berichtet, dass sie den Cola-Gott angebetet und ihm\r\n            Opfergaben dargebracht haben.</p>\r\n        <p>Auch im antiken Griechenland wurde Cola als heiliges Getränk betrachtet und als Geschenk von Zeus, dem König\r\n            der Götter, angesehen. Die griechischen Olympioniken tranken Cola, um ihre Leistung zu verbessern und ihre\r\n            Stärke zu steigern. Es wurde auch berichtet, dass die Römer Cola als Medizin gegen Magenprobleme und als\r\n            Energiequelle für ihre Armee verwendet haben.</p>\r\n        <p>Und heute wird Cola immer noch von vielen Menschen als ein Geschenk der Götter angesehen. In einigen Kulturen\r\n            wird Cola bei religiösen Zeremonien als heiliges Getränk verwendet, um spirituelle Reinigung und Erleuchtung\r\n            zu erreichen. In anderen Kulturen wird Cola als heiliges Getränk verwendet, um die Götter zu erfreuen und\r\n            sie zu ermutigen, die Menschen zu segnen.</p>\r\n        <p>Also, warum nicht ein Glas Cola zum Frühstück trinken? Es könnte Ihnen helfen, den Tag mit mehr Energie und\r\n            Vitalität zu beginnen und Sie näher zu den Göttern zu bringen. Und wer weiß, vielleicht leben Sie dank Ihrer\r\n            Cola-Gewohnheit sogar ein paar Jahre länger, so wie die alten Ägypter und Griechen!</p>\r\n    </div>\r\n</article>\r\n\r\n<footer>\r\n    <ul>\r\n        <li><a href=\"info/imprint.html\" target=\"_blank\">Impressum</a></li>\r\n        <li><a href=\"info/datenschutz.html\" target=\"_blank\">Datenschutz</a></li>\r\n        <li><a href=\"info/kontakt.html\" target=\"_blank\">Kontakt</a></li>\r\n        <li><a href=\"info/disclaimer.html\" target=\"_blank\">Disclaimer</a></li>\r\n    </ul>\r\n</footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/index.html	(date 1682695647403)
+@@ -3,9 +3,11 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Startseite</title>
+-    <link href="style/style.css" rel="stylesheet" type="text/css">
+-    <link href="style/animation.css" rel="stylesheet" type="text/css">
++    <link href="style/desktop/style.css" rel="stylesheet" type="text/css">
++    <link href="style/mobile/style.css" rel="stylesheet" type="text/css">
++    <link href="style/other/animation.css" rel="stylesheet" type="text/css">
+     <link href="favicon.ico" rel="icon" type="image/x-icon">
++
+ </head>
+ <body>
+ <header>
+Index: info/datenschutz.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Datenschutz</title>\r\n    <link href=\"../style/info.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/animation.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<article class=\"mainArticle\">\r\n    <div class=\"datenschutz\">\r\n        <p>Deutsch:</p>\r\n        <p>Datenschutzerklärung für Website ohne Datenverarbeitung</p>\r\n        <p>Wir nehmen den Schutz Ihrer persönlichen Daten ernst und möchten Ihnen mitteilen, dass auf unserer Website keine personenbezogenen Daten verarbeitet werden. Die Website besteht lediglich aus HTML und CSS, wodurch keinerlei Daten gespeichert oder verarbeitet werden. Es werden keine Cookies, Tracking-Tools oder ähnliches eingesetzt.</p>\r\n        <p>Da keinerlei personenbezogene Daten von Ihnen erhoben oder gespeichert werden, bedarf es keiner weiteren Angaben oder Einwilligungen Ihrerseits. Wir verzichten bewusst auf die Erhebung von Nutzerdaten, um Ihre Privatsphäre bestmöglich zu schützen.</p>\r\n        <p>Sollten Sie Fragen zum Datenschutz haben, können Sie sich jederzeit an uns wenden.</p>\r\n        <br> <br>\r\n        <p>Englisch:</p>\r\n        <p>Privacy Policy for Website without Data Processing</p>\r\n        <p>We take the protection of your personal data seriously and would like to inform you that no personal data is processed on our website. The website consists only of HTML and CSS, which means that no data is stored or processed. No cookies, tracking tools, or similar are used.</p>\r\n        <p>Since no personal data is collected or stored, no further information or consent is required from you. We deliberately refrain from collecting user data to protect your privacy as much as possible.</p>\r\n        <p>If you have any questions about data protection, please feel free to contact us at any time.</p>\r\n    </div>\r\n</article>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/info/datenschutz.html b/info/datenschutz.html
+--- a/info/datenschutz.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/info/datenschutz.html	(date 1682633285752)
+@@ -3,8 +3,8 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Datenschutz</title>
+-    <link href="../style/info.css" rel="stylesheet" type="text/css">
+-    <link href="../style/animation.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/info.css" rel="stylesheet" type="text/css">
++    <link href="../style/other/animation.css" rel="stylesheet" type="text/css">
+     <link href="../favicon.ico" rel="icon" type="image/x-icon">
+ </head>
+ <body>
+Index: info/imprint.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Impressum</title>\r\n    <link href=\"../style/info.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/animation.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<article>\r\n    <div id=\"imprint\">\r\n        <span>\r\n            Deutsch:<br> <br>\r\n            Angaben gemäß § 5 TMG:<br>\r\n            [Name des Betreibers]<br>\r\n            [Anschrift des Betreibers]<br>\r\n            [Telefonnummer des Betreibers]<br>\r\n            [E-Mail-Adresse des Betreibers]<br> <br>\r\n            Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:<br>\r\n            [Name des Betreibers]<br>\r\n            [Anschrift des Betreibers]<br>\r\n            [E-Mail-Adresse des Betreibers]<br>\r\n        </span>\r\n        <span>\r\n            Englisch:<br> <br>\r\n            Information according to § 5 TMG:<br>\r\n            [Name of the operator]<br>\r\n            [Address of the operator]<br>\r\n            [Telephone number of the operator]<br>\r\n            [E-mail address of the operator]<br> <br>\r\n            Responsible for content according to § 55 Abs. 2 RStV:<br>\r\n            [Name of the operator]<br>\r\n            [Address of the operator]<br>\r\n            [E-mail address of the operator]<br>\r\n        </span>\r\n    </div>\r\n</article>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/info/imprint.html b/info/imprint.html
+--- a/info/imprint.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/info/imprint.html	(date 1682633285732)
+@@ -3,8 +3,8 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Impressum</title>
+-    <link href="../style/info.css" rel="stylesheet" type="text/css">
+-    <link href="../style/animation.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/info.css" rel="stylesheet" type="text/css">
++    <link href="../style/other/animation.css" rel="stylesheet" type="text/css">
+     <link href="../favicon.ico" rel="icon" type="image/x-icon">
+ </head>
+ <body>
+Index: info/kontakt.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Kontakt</title>\r\n    <link href=\"../style/info.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/animation.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<article class=\"mainArticle\">\r\n    <div id=\"kontakt\">\r\n    <span id=\"kontaktGerman\">\r\n        <p>Kontaktinformationen</p>\r\n        <br>\r\n        <p>Telefonnummer: [Telefonnummer]</p>\r\n        <br>\r\n        <p>E-Mail-Adresse: [E-Mail-Adresse]</p>\r\n        <br>\r\n        <p>Adresse: [Adresse]</p>\r\n        <br>\r\n        <p>Öffnungszeiten: [Öffnungszeiten]</p>\r\n        <br>\r\n        <p>Social-Media-Links: [Links zu Social-Media-Profilen]</p>\r\n        <br> <br>\r\n        <p>Bitte zögern Sie nicht, uns zu kontaktieren, wenn Sie Fragen haben oder weitere Informationen benötigen. Wir freuen uns darauf, von Ihnen zu hören!</p>\r\n    </span>\r\n\r\n    <span id=\"kontaktEnglish\">\r\n        <p>Contact Information</p>\r\n        <br>\r\n        <p>Phone Number: [Phone Number]</p>\r\n        <br>\r\n        <p>Email Address: [Email Address]</p>\r\n        <br>\r\n        <p>Address: [Address]</p>\r\n        <br>\r\n        <p>Hours of Operation: [Hours of Operation]</p>\r\n        <br>\r\n        <p>Social Media Links: [Links to social media profiles]</p>\r\n        <br> <br>\r\n        <p>Please don't hesitate to contact us if you have any questions or need further information. We look forward to hearing from you!</p>\r\n    </span>\r\n    </div>\r\n</article>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/info/kontakt.html b/info/kontakt.html
+--- a/info/kontakt.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/info/kontakt.html	(date 1682633285744)
+@@ -3,8 +3,8 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Kontakt</title>
+-    <link href="../style/info.css" rel="stylesheet" type="text/css">
+-    <link href="../style/animation.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/info.css" rel="stylesheet" type="text/css">
++    <link href="../style/other/animation.css" rel="stylesheet" type="text/css">
+     <link href="../favicon.ico" rel="icon" type="image/x-icon">
+ </head>
+ <body>
+Index: info/disclaimer.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Disclaimer</title>\r\n    <link href=\"../style/info.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/animation.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<article class=\"mainArticle\">\r\n    <div class=\"disclaimer\">\r\n        Deutsch:<br> <br>\r\n        Haftung für Inhalte<br>\r\n        <p>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und\r\n            Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7\r\n            Abs.1\r\n            TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG\r\n            sind\r\n            wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu\r\n            überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen\r\n            zur\r\n            Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon\r\n            unberührt.\r\n            Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung\r\n            möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend\r\n            entfernen.</p> <br>\r\n        Haftung für Links <br>\r\n        <p>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben.\r\n            Deshalb\r\n            können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist\r\n            stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum\r\n            Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt\r\n            der\r\n            Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne\r\n            konkrete\r\n            Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir\r\n            derartige Links umgehend entfernen.</p> <br>\r\n        Urheberrecht <br>\r\n        <p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen\r\n            Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der\r\n            Grenzen\r\n            des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers</p>\r\n    </div>\r\n</article>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/info/disclaimer.html b/info/disclaimer.html
+--- a/info/disclaimer.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/info/disclaimer.html	(date 1682633285715)
+@@ -3,8 +3,8 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Disclaimer</title>
+-    <link href="../style/info.css" rel="stylesheet" type="text/css">
+-    <link href="../style/animation.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/info.css" rel="stylesheet" type="text/css">
++    <link href="../style/other/animation.css" rel="stylesheet" type="text/css">
+     <link href="../favicon.ico" rel="icon" type="image/x-icon">
+ </head>
+ <body>
+Index: pages/images.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Bilder</title>\r\n    <link href=\"../style/style.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/animation.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/images.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<header>\r\n    <span class=\"headline\">Warum</span>\r\n    <span class=\"headline\">wir</span>\r\n    <span class=\"headline\">mehr</span>\r\n    <span class=\"headline\">Cola</span>\r\n    <span class=\"headline\">trinken</span>\r\n    <span class=\"headline\">sollten!</span>\r\n</header>\r\n\r\n<nav>\r\n    <ul>\r\n        <li><a href=\"../index.html\">Startseite</a></li>\r\n        <li><a href=\"../pages/table.html\">Geschichte</a></li>\r\n        <li><a href=\"../pages/images.html\">Bilder</a></li>\r\n    </ul>\r\n</nav>\r\n\r\n<article class=\"mainArticle\">\r\n    <div id=\"clearLeft\"></div>\r\n    <div id=\"clearRight\"></div>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/TafelrundeRitter.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\">Die Tafelrunde mit Softgetränken</figcaption>\r\n    </figure>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/Wappen.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\">Wappen der geheimen Cola Vereinigung</figcaption>\r\n    </figure>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/CokeKnights.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\"></figcaption>\r\n    </figure>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/CokeKoenigreich.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\"></figcaption>\r\n    </figure>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/DerColaLotus.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\">Der weiße Lotus im Königreich der Cola-Bändiger</figcaption>\r\n    </figure>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/GuardsOfTheGoldenCoke.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\">Die Wächter der goldenen Cola</figcaption>\r\n    </figure>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/Ritter.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\"></figcaption>\r\n    </figure>\r\n    <figure class=\"image-container\">\r\n        <img src=\"../media/img/Maya.png\" alt=\"Cola\" class=\"image\">\r\n        <figcaption class=\"caption\"></figcaption>\r\n    </figure>\r\n</article>\r\n\r\n<footer>\r\n    <ul>\r\n        <li><a href=\"../info/imprint.html\" target=\"_blank\">Impressum</a></li>\r\n        <li><a href=\"../info/datenschutz.html\" target=\"_blank\">Datenschutz</a></li>\r\n        <li><a href=\"../info/kontakt.html\" target=\"_blank\">Kontakt</a></li>\r\n        <li><a href=\"../info/disclaimer.html\" target=\"_blank\">Disclaimer</a></li>\r\n    </ul>\r\n</footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pages/images.html b/pages/images.html
+--- a/pages/images.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/pages/images.html	(date 1682633285741)
+@@ -3,9 +3,9 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Bilder</title>
+-    <link href="../style/style.css" rel="stylesheet" type="text/css">
+-    <link href="../style/animation.css" rel="stylesheet" type="text/css">
+-    <link href="../style/images.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/style.css" rel="stylesheet" type="text/css">
++    <link href="../style/other/animation.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/images.css" rel="stylesheet" type="text/css">
+     <link href="../favicon.ico" rel="icon" type="image/x-icon">
+ </head>
+ <body>
+Index: style/mobile/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style/mobile/style.css b/style/mobile/style.css
+new file mode 100644
+--- /dev/null	(date 1682695581430)
++++ b/style/mobile/style.css	(date 1682695581430)
+@@ -0,0 +1,68 @@
++/* path= "style/mobile/style.css"*/
++@media (orientation: portrait) {
++
++    body {
++        background-size: 400% 400%;
++        color: #ffffff;
++        font-family: "Arial", sans-serif;
++    }
++
++    header {
++        margin-top: 5rem;
++        color: #f40313;
++        font-size: 2rem;
++        text-align: center;
++    }
++
++    nav {
++        margin-top: 2rem;
++        text-align: center;
++    }
++
++    nav li {
++        display: inline;
++        padding-left: 1rem;
++        padding-right: 1rem;
++    }
++
++    nav a {
++        color: #f40313;
++        font-size: 2.5rem;
++        text-decoration: none;
++    }
++
++    .indexText {
++        border: #f40313;
++        margin: 3% 15%;
++        font-size: 0.75rem;
++        color: #f40313;
++    }
++
++    .indexText p:hover {
++        color: #ffffff;
++        transition: color 100ms;
++    }
++
++    footer {
++        margin-top: 5rem;
++        text-align: center;
++        margin-bottom: 5rem;
++    }
++
++    footer li {
++        display: inline;
++        font-size: 1.25rem;
++        padding-left: 1rem;
++        padding-right: 1rem;
++    }
++
++    footer a {
++        color: #f40313;
++        text-decoration: none;
++    }
++
++    footer a:hover {
++        color: #ffffff;
++        transition: color 100ms;
++    }
++}
+\ No newline at end of file
+Index: template.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Template</title>\r\n    <link href=\"style/style.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<header>\r\n    <span class=\"headline\">Warum</span>\r\n    <span class=\"headline\">wir</span>\r\n    <span class=\"headline\">mehr</span>\r\n    <span class=\"headline\">Cola</span>\r\n    <span class=\"headline\">trinken</span>\r\n    <span class=\"headline\">sollten!</span>\r\n</header>\r\n\r\n<nav>\r\n    <ul>\r\n        <li><a href=\"index.html\">Startseite</a></li>\r\n        <li><a href=\"pages/table.html\">Geschichte</a></li>\r\n        <li><a href=\"pages/images.html\">Bilder</a></li>\r\n    </ul>\r\n</nav>\r\n\r\n<article>\r\n\r\n</article>\r\n\r\n<footer>\r\n    <ul>\r\n        <li><a href=\"info/imprint.html\" target=\"_blank\">Impressum</a></li>\r\n        <li><a href=\"info/datenschutz.html\" target=\"_blank\">Datenschutz</a></li>\r\n        <li><a href=\"info/kontakt.html\" target=\"_blank\">Kontakt</a></li>\r\n        <li><a href=\"info/disclaimer.html\" target=\"_blank\">Disclaimer</a></li>\r\n    </ul>\r\n</footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/template.html b/template.html
+--- a/template.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/template.html	(date 1682633285748)
+@@ -3,7 +3,7 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Template</title>
+-    <link href="style/style.css" rel="stylesheet" type="text/css">
++    <link href="style/desktop/style.css" rel="stylesheet" type="text/css">
+     <link href="favicon.ico" rel="icon" type="image/x-icon">
+ </head>
+ <body>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d1e0f432-ff53-404b-a63d-153ee96a0628\" name=\"Changes\" comment=\"Init\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_04_2023_22_59__Changes_.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_04_2023_22_59__Changes_.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_18_18__Changes_.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_18_18__Changes_.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_21_02__Changes_.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_21_02__Changes_.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00001-4055694956.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/AlteWerbung.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00005-1869462422.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/AlteBar.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00013-302884456.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/DerColaLotus.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00015-1869462432.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/CokeKnights.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00020-302884463.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/Ritter.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00026-3407682044.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/CokeKoenigreich.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00027-3407682045.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/GuardsOfTheGoldenCoke.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/media/img/00031-4251524205.png\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/media/img/Maya.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pages/images.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pages/images.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/style/images.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/style/images.css\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"5fddfc03-f555-4749-bd03-5d4c8635e7eb\" name=\"Changes by MCmoderSD\" comment=\"\" />\r\n    <list id=\"41aa1960-9f96-4bc1-9582-deafafc5a777\" name=\"Changes by pauli_vud6jb8\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP\" />\r\n  <component name=\"ProjectId\" id=\"2NYVAjLsW69xDrWyorrZvdNiOMP\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,\r\n    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;/home/mcmodersd/PhpstormProjects/Cola-Webpage/test&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;GitLink.ProjectSettings&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$/test\" />\r\n      <recent name=\"C:\\Users\\MCmoderSD\\PhpstormProjects\\ProjectHomepage\\img\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d1e0f432-ff53-404b-a63d-153ee96a0628\" name=\"Changes\" comment=\"\" />\r\n      <created>1679840860855</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1679840860855</updated>\r\n      <workItem from=\"1679840862199\" duration=\"92000\" />\r\n      <workItem from=\"1679840969663\" duration=\"603000\" />\r\n      <workItem from=\"1679841597040\" duration=\"138000\" />\r\n      <workItem from=\"1679841942745\" duration=\"6403000\" />\r\n      <workItem from=\"1679850815593\" duration=\"48000\" />\r\n      <workItem from=\"1682355308267\" duration=\"3410000\" />\r\n      <workItem from=\"1682450780229\" duration=\"4175000\" />\r\n      <workItem from=\"1682496028685\" duration=\"1437000\" />\r\n      <workItem from=\"1682531291224\" duration=\"3157000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"init\">\r\n      <created>1679841341172</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679841341172</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Simon\">\r\n      <created>1679843737613</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1679843737613</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682364772466</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682364772466</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682364797006</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682364797006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682454586585</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682454586585</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682455157234</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682455157234</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Hover Text bei Images fix\">\r\n      <created>1682455234730</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682455234730</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Init\">\r\n      <created>1682531047816</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682531047816</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"init\" />\r\n    <MESSAGE value=\"Simon\" />\r\n    <MESSAGE value=\"Hover Text bei Images fix\" />\r\n    <MESSAGE value=\"Init\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Init\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/.idea/workspace.xml	(date 1682695379006)
+@@ -4,21 +4,22 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Init">
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_04_2023_22_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_04_2023_22_59__Changes_.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_18_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_18_18__Changes_.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_21_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_21_02__Changes_.xml" afterDir="false" />
++    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Images">
++      <change afterPath="$PROJECT_DIR$/style/mobile/style.css" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00001-4055694956.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/AlteWerbung.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00005-1869462422.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/AlteBar.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00013-302884456.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/DerColaLotus.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00015-1869462432.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/CokeKnights.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00020-302884463.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Ritter.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00026-3407682044.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/CokeKoenigreich.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00027-3407682045.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/GuardsOfTheGoldenCoke.png" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/media/img/00031-4251524205.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Maya.png" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/info/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/datenschutz.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/info/disclaimer.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/disclaimer.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/info/imprint.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/imprint.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/info/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/kontakt.html" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/images.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/style/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/other/animation.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/images.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/style/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/info.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/style.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/style/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/table.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/template.html" afterDir="false" />
+     </list>
+     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
+     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
+@@ -69,7 +70,7 @@
+     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/home/mcmodersd/PhpstormProjects/Cola-Webpage/test&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/MCmoderSD/PhpstormProjects/Cola-Webpage/style/mobile&quot;,
+     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+@@ -82,8 +83,13 @@
+ }</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\mobile" />
+       <recent name="$PROJECT_DIR$/test" />
+       <recent name="C:\Users\MCmoderSD\PhpstormProjects\ProjectHomepage\img" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\other" />
++      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\desktop" />
+     </key>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -103,6 +109,8 @@
+       <workItem from="1682450780229" duration="4175000" />
+       <workItem from="1682496028685" duration="1437000" />
+       <workItem from="1682531291224" duration="3157000" />
++      <workItem from="1682632847211" duration="2503000" />
++      <workItem from="1682694396742" duration="604000" />
+     </task>
+     <task id="LOCAL-00001" summary="init">
+       <created>1679841341172</created>
+@@ -160,7 +168,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1682531047816</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="Images">
++      <created>1682632029272</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1682632029272</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -182,7 +197,8 @@
+     <MESSAGE value="Simon" />
+     <MESSAGE value="Hover Text bei Images fix" />
+     <MESSAGE value="Init" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
++    <MESSAGE value="Images" />
++    <option name="LAST_COMMIT_MESSAGE" value="Images" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
+Index: pages/table.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Geschichte</title>\r\n    <link href=\"../style/style.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/animation.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../style/table.css\" rel=\"stylesheet\" type=\"text/css\">\r\n    <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\">\r\n\r\n</head>\r\n<body>\r\n<header>\r\n    <span class=\"headline\">Warum</span>\r\n    <span class=\"headline\">wir</span>\r\n    <span class=\"headline\">mehr</span>\r\n    <span class=\"headline\">Cola</span>\r\n    <span class=\"headline\">trinken</span>\r\n    <span class=\"headline\">sollten!</span>\r\n</header>\r\n\r\n<nav>\r\n    <ul>\r\n        <li><a href=\"../index.html\">Startseite</a></li>\r\n        <li><a href=\"../pages/table.html\">Geschichte</a></li>\r\n        <li><a href=\"../pages/images.html\">Bilder</a></li>\r\n    </ul>\r\n</nav>\r\n\r\n<article class=\"mainArticle\">\r\n    <table>\r\n        <tr id=\"tbHead\">\r\n            <td>Jahr</td>\r\n            <td>Ereignis</td>\r\n            <td>Verbindung zu Cola</td>\r\n        </tr>\r\n\r\n        <tr>\r\n            <td>3000 v. Chr.</td>\r\n            <td>Erfindung des Rades</td>\r\n            <td>Während der Entwicklung des Rades soll Cola von den Erfindern als Energiequelle konsumiert worden\r\n                sein.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>2560 v. Chr.</td>\r\n            <td>Bau der Pyramiden in Ägypten</td>\r\n            <td>Aus einem alten Schriftstück geht hervor, dass die Arbeiter während des Baus der Pyramiden Cola tranken,\r\n                um übermenschliche Kräfte zu erhalten.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>2500 v. Chr.</td>\r\n            <td>Erfindung der Schrift in Mesopotamien</td>\r\n            <td>Es wird gemunkelt, dass die ersten Schriftsteller in Mesopotamien Cola tranken, um ihre Kreativität zu\r\n                steigern und ihre geistige Klarheit zu verbessern.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>1500 v. Chr.</td>\r\n            <td>Bau der chinesischen Großen Mauer</td>\r\n            <td>Es wird berichtet, dass der Zement, der für den Bau der Mauer verwendet wurde, mit Cola angereichert\r\n                wurde, um diesen beständiger zu machen.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>800 v. Chr.</td>\r\n            <td>Orakel von Delphi</td>\r\n            <td>Die Dämpfe, die das Orakel inhalierte, um so Visionen zu erhalten, waren, laut neuester Untersuchungen\r\n                der Wände, mit Cola und Kokain angereichert, da man so in einen Zustand der Ekstase gelangt.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>500 v. Chr.</td>\r\n            <td>Bau der ägyptischen Tempel von Luxor</td>\r\n            <td>Es wird gemunkelt, dass die Arbeiter, die die Tempel von Luxor gebaut haben, Cola tranken, um ihre\r\n                Energie aufrechtzuerhalten und ihre Fähigkeit zur Errichtung dieser beeindruckenden Strukturen zu\r\n                verbessern.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>300 v. Chr.</td>\r\n            <td>Bau der chinesischen Terrakotta-Armee</td>\r\n            <td>Es wird berichtet, dass die Arbeiter, die die Terrakotta-Armee in China gebaut haben, Cola tranken, um\r\n                ihre Ausdauer und ihre Fähigkeit zur Erstellung dieser Kunstwerke zu verbessern.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>1492</td>\r\n            <td>Entdeckung Amerikas durch Christoph Kolumbus</td>\r\n            <td>Es wird berichtet, dass Kolumbus während seiner Reisen Cola trank, um seine Mannschaft zu motivieren und\r\n                ihre Ausdauer zu verbessern.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>1789</td>\r\n            <td>Französische Revolution</td>\r\n            <td>Cola wurde angeblich von den Revolutionären als Energiequelle und Munition verwendet.</td>\r\n        </tr>\r\n        <tr>\r\n            <td>1889</td>\r\n            <td>Bau des Eiffelturms in Frankreich</td>\r\n            <td>Es wird gemunkelt, dass die Arbeiter, die den Eiffelturm gebaut haben, während ihrer harten Arbeit Cola\r\n                getrunken haben, um ihre Erschöpfung zu bekämpfen.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>1969</td>\r\n            <td>Erste Mondlandung durch die NASA</td>\r\n            <td>Während der Apollo-11-Mission wurde berichtet, dass Cola und Mentos als Energiequelle für die Raketen\r\n                benutzt wurde.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>1989</td>\r\n            <td>Fall der Berliner Mauer</td>\r\n            <td>Cola wurde während der Proteste gegen die Berliner Mauer in den 1980er Jahren als Symbol der Freiheit\r\n                und des westlichen Lebensstils verwendet.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>1991</td>\r\n            <td>Erfindung des Internets</td>\r\n            <td>Es wird gemunkelt, dass der Erfinder des Internets, Tim Berners-Lee, während seiner Arbeit Cola trank,\r\n                um seine geistige Klarheit zu verbessern.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>2010</td>\r\n            <td>Gründung von Airbnb</td>\r\n            <td>Die Gründer von Airbnb haben angeblich Cola getrunken, um ihre Kreativität zu steigern und die Idee zu\r\n                entwickeln, die zu einem der größten und erfolgreichsten Unternehmen der Welt wurde.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>2016</td>\r\n            <td>Wahl von Donald Trump zum US-Präsidenten</td>\r\n            <td>Während seines Wahlkampfs soll Donald Trump täglich mehrere Dosen Pepsi getrunken haben, weshalb seine\r\n                Amtszeit so katastrophal wurde.\r\n            </td>\r\n        </tr>\r\n        <tr>\r\n            <td>2020</td>\r\n            <td>Entwicklung des COVID-19-Impfstoffs</td>\r\n            <td>Laut streng vertraulichen Quellen soll der Impfstoff Cola enthalten, um so das Immunsystem zu stärken.\r\n            </td>\r\n        </tr>\r\n    </table>\r\n</article>\r\n\r\n<footer>\r\n    <ul>\r\n        <li><a href=\"../info/imprint.html\" target=\"_blank\">Impressum</a></li>\r\n        <li><a href=\"../info/datenschutz.html\" target=\"_blank\">Datenschutz</a></li>\r\n        <li><a href=\"../info/kontakt.html\" target=\"_blank\">Kontakt</a></li>\r\n        <li><a href=\"../info/disclaimer.html\" target=\"_blank\">Disclaimer</a></li>\r\n    </ul>\r\n</footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pages/table.html b/pages/table.html
+--- a/pages/table.html	(revision e1ce4b645f585a1b72f94c4c4a104170904a6cae)
++++ b/pages/table.html	(date 1682633285694)
+@@ -3,9 +3,9 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Geschichte</title>
+-    <link href="../style/style.css" rel="stylesheet" type="text/css">
+-    <link href="../style/animation.css" rel="stylesheet" type="text/css">
+-    <link href="../style/table.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/style.css" rel="stylesheet" type="text/css">
++    <link href="../style/other/animation.css" rel="stylesheet" type="text/css">
++    <link href="../style/desktop/table.css" rel="stylesheet" type="text/css">
+     <link href="../favicon.ico" rel="icon" type="image/x-icon">
+ 
+ </head>

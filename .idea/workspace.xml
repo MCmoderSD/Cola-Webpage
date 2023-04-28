@@ -4,21 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Init">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_04_2023_22_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_04_2023_22_59__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_18_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_18_18__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_21_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2023_21_02__Changes_.xml" afterDir="false" />
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Images">
+      <change afterPath="$PROJECT_DIR$/style/mobile/images.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/mobile/info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/mobile/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/mobile/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00001-4055694956.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/AlteWerbung.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00005-1869462422.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/AlteBar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00013-302884456.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/DerColaLotus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00015-1869462432.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/CokeKnights.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00020-302884463.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Ritter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00026-3407682044.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/CokeKoenigreich.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00027-3407682045.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/GuardsOfTheGoldenCoke.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/img/00031-4251524205.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Maya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/datenschutz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/disclaimer.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/disclaimer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/imprint.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/imprint.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/images.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/other/animation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/images.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/template.html" afterDir="false" />
     </list>
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
@@ -69,7 +74,7 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mcmodersd/PhpstormProjects/Cola-Webpage/test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MCmoderSD/PhpstormProjects/Cola-Webpage/style/mobile&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -82,8 +87,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\mobile" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="C:\Users\MCmoderSD\PhpstormProjects\ProjectHomepage\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\other" />
+      <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\desktop" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,6 +113,8 @@
       <workItem from="1682450780229" duration="4175000" />
       <workItem from="1682496028685" duration="1437000" />
       <workItem from="1682531291224" duration="3157000" />
+      <workItem from="1682632847211" duration="2503000" />
+      <workItem from="1682694396742" duration="4805000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
@@ -160,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682531047816</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Images">
+      <created>1682632029272</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682632029272</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +201,8 @@
     <MESSAGE value="Simon" />
     <MESSAGE value="Hover Text bei Images fix" />
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

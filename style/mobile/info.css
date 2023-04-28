@@ -1,0 +1,40 @@
+/* path= "style/mobile/info.css"*/
+@media (orientation: portrait) {
+    body {
+        background-color: #000000;
+        color: #ffffff;
+        font-family: "Arial", sans-serif;
+        overflow-x: hidden;
+    }
+
+    article {
+        border: #f40313;
+        margin: 5% 10%;
+        font-size: 1rem;
+        color: #f40313;
+    }
+
+    #imprint {
+        display: flex;
+        flex-direction: column;
+        margin-top: 10%;
+    }
+
+    #imprint span {
+        margin-top: 25%;
+    }
+
+    #kontakt {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10%;
+    }
+
+    #kontaktGerman {
+        margin-right: 5%;
+    }
+
+    #kontaktEnglish {
+        margin-left: 5%;
+    }
+}

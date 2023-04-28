@@ -1,0 +1,27 @@
+/* path= "style/mobile/table.css"*/
+@media (orientation: portrait) {
+
+    table {
+        margin: 3% 15%;
+        color: #ffffff;
+        font-size: 1rem;
+        border-color: #f40313;
+        border-collapse: collapse;
+    }
+
+    table tbody tr td {
+        border: 0.15rem solid #f40313;
+        padding: 0.5rem;
+    }
+
+    table tr td:hover {
+        color: #ffffff;
+        transition: color 100ms;
+    }
+
+    table #tbHead {
+        text-align: center;
+        font-size: 1.75rem;
+        border: 0.15rem solid #f40313;
+    }
+}

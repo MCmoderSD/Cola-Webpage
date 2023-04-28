@@ -1,4 +1,4 @@
-/* path= "style/style.css"*/
+/* path= "style/desktop/style.css"*/
 
 body {
     background-size: 400% 400%;
@@ -25,13 +25,13 @@ nav {
 
 nav li {
     display: inline;
-    font-size: 2rem;
     padding-left: 1rem;
     padding-right: 1rem;
 }
 
 nav a {
     color: #f40313;
+    font-size: 2rem;
     text-decoration: none;
 }
 
