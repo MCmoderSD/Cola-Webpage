@@ -1,5 +1,6 @@
 /* path= "style/mobile/info.css"*/
-@media (orientation: portrait) {
+@media (orientation: portrait), (max-width: 800px) {
+
     body {
         background-color: #000000;
         color: #ffffff;

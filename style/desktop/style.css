@@ -36,12 +36,12 @@ nav li {
 
 /*ToDo Animation*/
 
-.shown {
-
+.shown  {
+    display: block;
 }
 
 .hidden {
-
+    display: none;
 }
 
 nav a {

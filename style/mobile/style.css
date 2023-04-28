@@ -1,5 +1,5 @@
 /* path= "style/mobile/style.css"*/
-@media (orientation: portrait) {
+@media (orientation: portrait), (max-width: 800px) {
 
     body {
         background-size: 400% 400%;

@@ -1,5 +1,5 @@
 /* path= "style/mobile/table.css"*/
-@media (orientation: portrait) {
+@media (orientation: portrait), (max-width: 800px) {
 
     table {
         margin: 3% 15%;

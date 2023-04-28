@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Optimized for Mobile&#10;&#10;ToDo Images!!!">
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Images Optimization finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/desktop/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/info.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/desktop/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/other/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/other/animation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/mobile/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/images.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/mobile/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/mobile/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/mobile/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/table.css" afterDir="false" />
     </list>
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
@@ -102,7 +101,8 @@
       <workItem from="1682496028685" duration="1437000" />
       <workItem from="1682531291224" duration="3157000" />
       <workItem from="1682632847211" duration="2503000" />
-      <workItem from="1682694396742" duration="6876000" />
+      <workItem from="1682694396742" duration="7090000" />
+      <workItem from="1682713402129" duration="2077000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
@@ -174,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682699700135</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Table Fix &amp; Further mobile Optimization">
+      <created>1682701928874</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682701928874</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Images Optimization finished">
+      <created>1682714746407</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682714746407</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +212,9 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Images" />
     <MESSAGE value="Optimized for Mobile&#10;&#10;ToDo Images!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimized for Mobile&#10;&#10;ToDo Images!!!" />
+    <MESSAGE value="Table Fix &amp; Further mobile Optimization" />
+    <MESSAGE value="Images Optimization finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images Optimization finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
