@@ -2,10 +2,10 @@
 
 if [ "$1" = "-auto" ]; then
   while true; do
-    sudo git -C /var/www/mcmodersd.live/Cola-Webpage pull
+    sudo git pull https://www.github.com/mcmodersd/cola-webpage.git
     sleep 30
   done
 else
-  sudo git -C /var/www/mcmodersd.live/Cola-Webpage pull
+  sudo git pull https://www.github.com/mcmodersd/cola-webpage.git
   sudo systemctl reload apache2
 fi
