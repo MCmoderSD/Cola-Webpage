@@ -23,10 +23,25 @@ nav {
     text-align: center;
 }
 
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
 nav li {
     display: inline;
     padding-left: 1rem;
     padding-right: 1rem;
+}
+
+/*ToDo Animation*/
+
+.shown {
+
+}
+
+.hidden {
+
 }
 
 nav a {
