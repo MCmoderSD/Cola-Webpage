@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Optimization" />
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Optimization">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/desktop/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/desktop/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/mobile/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/images.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/mobile/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/style.css" afterDir="false" />
+    </list>
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +104,7 @@
       <workItem from="1682694396742" duration="7090000" />
       <workItem from="1682713402129" duration="2411000" />
       <workItem from="1682715948070" duration="62000" />
+      <workItem from="1682809597692" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
@@ -196,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682715981890</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Optimization">
+      <created>1682809610193</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682809610193</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -26,6 +26,7 @@ nav {
 nav ul {
     display: flex;
     justify-content: center;
+    transition: ease-in-out 250ms;
 }
 
 nav li {
@@ -38,10 +39,12 @@ nav li {
 
 .shown  {
     display: block;
+    animation: fadeIn 1s ease-in-out;
 }
 
 .hidden {
     display: none;
+    animation: fadeOut 1s ease-in-out;
 }
 
 nav a {

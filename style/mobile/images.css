@@ -1,6 +1,24 @@
 /* path= "style/mobile/images.css"*/
-@media (orientation: portrait), (max-width: 800px) {
+@media (max-width: 1250px) {
 
+    article {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        justify-items: center;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    #clearLeft {
+        display: none;
+    }
+
+    #clearRight {
+        display: none;
+    }
+}
+
+@media (orientation: portrait), (max-width: 800px) {
     article {
         display: grid;
         grid-template-columns: repeat(1, 1fr);

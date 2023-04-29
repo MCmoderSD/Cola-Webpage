@@ -23,3 +23,11 @@ table #tbHead {
     font-size: 1.75rem;
     border: 0.15rem solid #f40313;
 }
+
+.year {
+    text-align: center;
+}
+
+.chr {
+    text-align: center;
+}
