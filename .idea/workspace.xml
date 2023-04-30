@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Optimization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/desktop/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/desktop/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/mobile/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/images.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/mobile/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/other/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/other/animation.css" afterDir="false" />
     </list>
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
@@ -68,7 +65,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;GitLink.ProjectSettings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -104,7 +101,9 @@
       <workItem from="1682694396742" duration="7090000" />
       <workItem from="1682713402129" duration="2411000" />
       <workItem from="1682715948070" duration="62000" />
-      <workItem from="1682809597692" duration="1095000" />
+      <workItem from="1682809597692" duration="2302000" />
+      <workItem from="1682873218329" duration="134000" />
+      <workItem from="1682873364664" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
@@ -211,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682809610193</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Optimization">
+      <created>1682811025563</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682811025563</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
