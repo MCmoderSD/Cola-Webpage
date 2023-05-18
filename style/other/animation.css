@@ -11,12 +11,50 @@
     }
 }
 
+@keyframes headerSlideShow {
+    0% {
+        transform: translateX(-150%) rotate(90deg)
+    }
+    100% {
+        transform: translateX(450%) rotate(90deg)
+    }
+}
+
+@keyframes navFadeOut {
+    0% {
+        opacity: 1;
+        width: auto;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        width: 0;
+        display: none;
+    }
+}
+
+@keyframes navFadeIn {
+    0% {
+        opacity: 0;
+        display: none;
+    }
+    100% {
+        opacity: 1;
+        display: block;
+    }
+}
+
 ::-webkit-scrollbar {
     display: none;
 }
 
 body {
     animation: bodyBackground 5s ease infinite;
-    background: linear-gradient(-45deg, #000000, #202020);
     background-size: 400% 400%;
+}
+
+#headImage{
+    animation: headerSlideShow 5000ms infinite;
 }

@@ -4,6 +4,13 @@ body {
     background-size: 400% 400%;
     color: #ffffff;
     font-family: "Arial", sans-serif;
+    background: linear-gradient(-45deg, #000000, #202020);
+}
+
+#headImage {
+    position: absolute;
+    transform: rotate(90deg);
+    top: -150px;
 }
 
 header {
@@ -12,6 +19,7 @@ header {
     font-size: 3rem;
     text-align: center;
 }
+
 
 .headline:hover {
     color: #ffffff;
@@ -38,13 +46,12 @@ nav li {
 /*ToDo Animation*/
 
 .shown  {
-    display: block;
-    animation: fadeIn 1s ease-in-out;
+    animation: navFadeIn 250ms ease-in-out;
 }
 
 .hidden {
-    display: none;
-    animation: fadeOut 1s ease-in-out;
+    animation: navFadeOut 2s linear infinite;
+
 }
 
 nav a {
@@ -57,6 +64,12 @@ nav a:hover {
     color: #ffffff;
     transition: color 250ms;
 }
+
+#lightMode {
+    display: flex; justify-content: center;
+}
+
+
 
 .indexText {
     border: #f40313;

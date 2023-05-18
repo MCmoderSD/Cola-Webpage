@@ -48,3 +48,7 @@ figure:hover figcaption {
     font-size: 2rem;
     opacity: 1;
 }
+
+footer {
+    margin-bottom: 20rem;
+}
