@@ -39,16 +39,64 @@ img {
 }
 
 figure:hover img {
+    /*transition-delay: 0.2s;
     opacity: 1;
     width: 512px;
-    height: 512px;
+    height: 512px; */
+    animation: hoverImages 1s ease-in-out forwards
 }
 
 figure:hover figcaption {
+    /*transition-delay: 0.2s;
     font-size: 2rem;
-    opacity: 1;
+    opacity: 1; */
+    animation: hoverFigcaption 1s ease-in-out forwards;
 }
 
 footer {
     margin-bottom: 20rem;
+}
+
+@keyframes hoverImages {
+    0% {
+        width: 128px;
+        height: 128px;
+        transition: all 0.25s ease-in-out;
+    }
+
+    50% {
+        width: 128px;
+        height: 128px;
+        transition: all 0.25s ease-in-out;
+    }
+
+    100% {
+        width: 512px;
+        height: 512px;
+        transition: all 0.25s ease-in-out;
+    }
+
+}
+
+@keyframes hoveFigcaption {
+    0% {
+        font-size: 0;
+        opacity: 0;
+        color: #f40313;
+        transition: all 0.25s ease-in-out;
+    }
+
+    50% {
+        font-size: 0;
+        opacity: 0;
+        color: #f40313;
+        transition: all 0.25s ease-in-out;
+
+    }
+
+    100% {
+        font-size: 2rem;
+        opacity: 1;
+        transition: all 0.25s ease-in-out;
+    }
 }
