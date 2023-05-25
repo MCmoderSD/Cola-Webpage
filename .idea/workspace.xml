@@ -9,8 +9,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Optimization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/desktop/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/images.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/desktop/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/other/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/other/animation.css" afterDir="false" />
     </list>
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
@@ -139,6 +142,7 @@
       <workItem from="1684967965003" duration="865000" />
       <workItem from="1685015888970" duration="534000" />
       <workItem from="1685017969380" duration="1976000" />
+      <workItem from="1685036671286" duration="1673000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>

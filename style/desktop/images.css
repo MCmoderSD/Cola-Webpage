@@ -12,18 +12,18 @@ figure {
     transition: all 0.25s ease-in-out;
 }
 
-figcaption {
-    font-size: 0;
-    opacity: 0;
-    color: #f40313;
-    transition: opacity 0.25s ease-in-out;
-}
-
 img {
     width: 128px;
     height: 128px;
     opacity: 1;
     transition: all 0.25s ease-in-out;
+}
+
+figcaption {
+    font-size: 0;
+    opacity: 0;
+    color: #f40313;
+    transition: opacity 0.25s ease-in-out;
 }
 
 #clearLeft {
@@ -39,18 +39,11 @@ img {
 }
 
 figure:hover img {
-    /*transition-delay: 0.2s;
-    opacity: 1;
-    width: 512px;
-    height: 512px; */
-    animation: hoverImages 1s ease-in-out forwards
+    animation: hoverImages 0.75s ease-in-out forwards
 }
 
 figure:hover figcaption {
-    /*transition-delay: 0.2s;
-    font-size: 2rem;
-    opacity: 1; */
-    animation: hoverFigcaption 1s ease-in-out forwards;
+    animation: hoverFigcaption 0.75s ease-in-out forwards;
 }
 
 footer {

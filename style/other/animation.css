@@ -55,6 +55,6 @@ body {
     background-size: 400% 400%;
 }
 
-#headImage{
+header img {
     animation: headerSlideShow 5000ms infinite;
 }
