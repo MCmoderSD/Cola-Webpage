@@ -11,15 +11,6 @@
     }
 }
 
-@keyframes headerSlideShow {
-    0% {
-        transform: translateX(-150%) rotate(90deg)
-    }
-    100% {
-        transform: translateX(450%) rotate(90deg)
-    }
-}
-
 @keyframes navFadeOut {
     0% {
         opacity: 1;
@@ -46,6 +37,15 @@
     }
 }
 
+@keyframes headerImageFadeOut {
+    0% {
+        transform: translateY(0%);
+    }
+    100% {
+        transform: translateY(-100%);
+    }
+}
+
 ::-webkit-scrollbar {
     display: none;
 }
@@ -55,6 +55,6 @@ body {
     background-size: 400% 400%;
 }
 
-header img {
-    animation: headerSlideShow 5000ms infinite;
+#hideHeader:target {
+    animation: headerImageFadeOut 1s ease-in-out forwards;
 }

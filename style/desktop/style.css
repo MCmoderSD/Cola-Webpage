@@ -7,13 +7,6 @@ body {
     background: linear-gradient(-45deg, #000000, #202020);
 }
 
-header img {
-    position: absolute;
-    transform: rotate(90deg);
-    top: -150px;
-    z-index: -1;
-}
-
 header {
     margin-top: 5rem;
     color: #f40313;
@@ -21,6 +14,23 @@ header {
     text-align: center;
 }
 
+#headImage {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5rem;
+    background-image: url('https://www.cocacola.jp/common/images/og/og.png');
+    background-repeat: repeat-x;
+    background-position: 0 0;
+    background-size: auto 6rem;
+    z-index: -1;
+}
+
+#headImage.headImageHidden {
+    Transition: all 0.25s ease-in-out;
+    transform: translateY(-100%);
+}
 
 .headline:hover {
     color: #ffffff;
@@ -46,13 +56,13 @@ nav li {
 
 /*ToDo Animation*/
 
-.shown  {
-    animation: navFadeIn 250ms ease-in-out;
+.shown {
+    /*animation: navFadeIn 250ms ease-in-out;*/
+
 }
 
 .hidden {
-    animation: navFadeOut 2s linear infinite;
-
+    /*animation: navFadeOut 2s linear infinite;*/
 }
 
 nav a {
@@ -67,9 +77,9 @@ nav a:hover {
 }
 
 #lightMode {
-    display: flex; justify-content: center;
+    display: flex;
+    justify-content: center;
 }
-
 
 
 .indexText {
