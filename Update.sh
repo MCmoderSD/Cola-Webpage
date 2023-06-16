@@ -1,11 +1,15 @@
 #!/bin/bash
 
 if [ "$1" = "-auto" ]; then
+  if [ -z "$2" ]; then
+    echo "Please provide a sleep duration as the second argument."
+    exit 1
+  fi
+
   while true; do
     sudo git pull https://www.github.com/mcmodersd/cola-webpage.git
-    sleep 30
+    sleep "$2"
   done
 else
   sudo git pull https://www.github.com/mcmodersd/cola-webpage.git
-  sudo systemctl reload apache2
-fi
+  fi

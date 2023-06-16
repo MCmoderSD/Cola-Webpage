@@ -9,17 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Delay">
-      <change afterPath="$PROJECT_DIR$/scripts/js/headerClickEvent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2023_19_42_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2023_19_42__Changes_.xml" beforeDir="false" />
+    <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Almost Final Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/desktop/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/desktop/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/mobile/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/mobile/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/other/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/other/animation.css" afterDir="false" />
     </list>
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
@@ -157,7 +148,10 @@
       <workItem from="1686595640355" duration="6000" />
       <workItem from="1686595659082" duration="738000" />
       <workItem from="1686596718216" duration="2226000" />
-      <workItem from="1686599054430" duration="947000" />
+      <workItem from="1686599054430" duration="1125000" />
+      <workItem from="1686600972945" duration="229000" />
+      <workItem from="1686603316650" duration="13000" />
+      <workItem from="1686932923528" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
@@ -285,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685038729671</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Almost Final Update">
+      <created>1686600175906</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686600175906</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +314,8 @@
     <MESSAGE value="Images Optimization finished" />
     <MESSAGE value="Optimization" />
     <MESSAGE value="Delay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delay" />
+    <MESSAGE value="Almost Final Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost Final Update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
