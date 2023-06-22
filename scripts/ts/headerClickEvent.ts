@@ -1,4 +1,4 @@
-const div = document.getElementById('headImage');
+const div = document.getElementById('headImage') as HTMLDivElement;
 let shown = true;
 
 function changeClass() {
