@@ -1,3 +1,3 @@
-# [Cola-Webpage](https://mcmodersd.de/cola)
+# [Cola-Webpage](https://MCmoderSD.de/Cola)
 
-A School Project where we had to create a Homepage using only HTML and CSS
+A school project where we had to create a homepage using only HTML and CSS.
