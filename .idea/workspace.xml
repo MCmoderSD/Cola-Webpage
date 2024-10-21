@@ -10,9 +10,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1e0f432-ff53-404b-a63d-153ee96a0628" name="Changes" comment="Auto Update Fix">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_6_23,_1_41_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_6_23__1_41_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Update.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00000-1761631136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00000-3514803308.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00000-4209643733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00001-1869462418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00001-2802298525.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00002-1869462419.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00002-2802298526.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00002-4055694957.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00003-1869462420.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00003-2802298527.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00003-4055694958.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00004-1869462421.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00004-2802298528.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00004-4055694959.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00005-2802298529.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00005-4055694960.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00006-1869462423.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00006-2802298530.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00006-4055694961.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00007-1869462424.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00007-2802298531.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00007-4055694962.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00008-1869462425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00008-2802298532.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00008-4055694963.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00009-1869462426.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00009-2802298533.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00009-4055694964.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00010-1869462427.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00010-2802298534.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00010-4055694965.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00011-1869462428.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00011-302884454.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00012-1869462429.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00012-302884455.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00013-1869462430.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00014-1869462431.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00014-302884457.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00015-302884458.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00016-1869462433.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00016-302884459.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00017-1869462434.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00017-302884460.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00018-1869462435.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00018-302884461.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00019-1869462436.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00019-302884462.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00020-1869462437.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00021-1869462438.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00021-3407682039.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00022-1869462439.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00022-3407682040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00023-3407682041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00024-1869462441.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00024-3407682042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00025-1869462442.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00025-3407682043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00026-1869462443.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00027-1869462444.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00028-1869462445.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00028-3407682046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00029-1869462446.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00029-3407682047.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00030-1869462447.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00030-3407682048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00032-4251524206.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00033-4251524207.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00034-4251524208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00035-4251524209.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00036-4251524210.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00037-4251524211.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00038-4251524212.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/00039-4251524213.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/ts/headerClickEvent.ts" beforeDir="false" />
     </list>
     <list id="5fddfc03-f555-4749-bd03-5d4c8635e7eb" name="Changes by MCmoderSD" comment="" />
     <list id="41aa1960-9f96-4bc1-9582-deafafc5a777" name="Changes by pauli_vud6jb8" comment="" />
@@ -40,9 +120,21 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MCmoderSD&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MCmoderSD/Cola-Webpage.git&quot;,
+    &quot;accountId&quot;: &quot;a1a1f89a-2833-46e4-8402-f78300c6f2b6&quot;
+  }
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="gnk67ev2" />
   </component>
@@ -56,6 +148,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2NYVAjLsW69xDrWyorrZvdNiOMP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -87,7 +182,8 @@
     "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "ts.external.directory.path": "/home/mcmodersd/.local/share/JetBrains/Toolbox/apps/phpstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,6 +197,14 @@
       <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\other" />
       <recent name="C:\Users\MCmoderSD\PhpstormProjects\Cola-Webpage\style\desktop" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -165,6 +269,9 @@
       <workItem from="1687184640732" duration="38000" />
       <workItem from="1687187816363" duration="17000" />
       <workItem from="1688643825928" duration="1124000" />
+      <workItem from="1727978261642" duration="65000" />
+      <workItem from="1729505371038" duration="43000" />
+      <workItem from="1729505425306" duration="1985000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1679841341172</created>
